@@ -24,16 +24,21 @@ from userbot.events import register
 
 
 KANGING_STR = [
-    "Wao.,STICKER PELER KU COLONG..",
-    "Maling sticker gpp kan mwaah",
-    "ehh ngentot tikel ny bagos colong ah...",
-    "Ini Sticker aku colong yaa\nDUARR MEMEK",
-    "leh ugha ni Sticker\nColong ahh~",
+    "Eh... Koq bagus... aku curry ahhh :3",
+    "Aku curry ya kakak :)",
+    "Curry Sticker dulu yee kan",
+    "ehh, mantep nih.....aku ambil ya kaka",
+    "Bagus eaaaa....\nAmbil ahh....",
+    "Ini Sticker aku ambil yaa\nDUARR!",
+    "leh ugha ni Sticker\nCurry ahh~",
     "Pim Pim Pom!!!\nni Sticker punya aing sekarang hehe",
-    "Colong lagi yee kan.....",
-    "COLONG TROSS NGENTOT!!!",
-    "Bolehkah saya colong ni sticker\nau ah colong aja hehe",
-    "Colong Sticker NGAPE GA SENENG?.....",
+    "Bentar boss, ane curry dulu",
+    "Ihh, bagus nih\nCurry ahh~",
+    "Curry lagi yee kan.....",
+    "CURRY TROSS!!!",
+    "Curry Sticker ahh.....",
+    "Curry dolo boss",
+    "Swiper jangan mencurry",
 ]
 
 
@@ -251,7 +256,7 @@ async def kang(args):
 
         await args.edit(
             "`Nyolong Sticker SUKSES KONTOL!`"
-            f"\n    🐨 **[KLIK TOLOL](t.me/addstickers/{packname})** 🐨\nBANGGA JADI MALING",
+            f"\n    **[Klik Disini](t.me/addstickers/{packname})** \nCurry Terus Xixi",
             parse_mode="md",
         )
 
